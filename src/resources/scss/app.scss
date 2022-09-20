@@ -1,7 +1,8 @@
 @import "variables";
 
-h1 {
-  font-size: 1rem;
-  color: $red-color;
-  background-color: $green-color;
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 4px;
 }
